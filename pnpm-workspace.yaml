@@ -1,0 +1,6 @@
+packages:
+  - 'common/*'
+  - 'designer/*'
+  - 'examples/*'
+  - 'runtime/*'
+  - 'schema/*'
